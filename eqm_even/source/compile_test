@@ -1,0 +1,1 @@
+ifort choles.f anglib.f90 base.f  ham.f input_sp.f90 admat_cp_par.f90  dmat_test.f  eqm.f -O3 -openmp -parallel -L$MKLPATH -I$MKLINCLUDE -lmkl_intel_lp64 -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -i_dynamic -o eqmf_par

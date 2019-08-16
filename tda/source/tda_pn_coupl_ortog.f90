@@ -2,6 +2,7 @@
 !*     formalism.
 !*
 !*     last update 16.8.2019 
+!*    
 
       program tda_pn_coup
       
@@ -237,9 +238,7 @@
 !      close(14)
       close(99)
 
-      write(*,*)'dimension of 1 phonon space  ',  nlam
-
-
+      write(*,*)'Dimension of 1-phonon space  ',  nlam
 
 
       

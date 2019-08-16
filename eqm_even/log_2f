@@ -1,0 +1,1740 @@
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =            0
+  Total dimension         1192
+  Truncated dimension          596
+  Dimension =         1192
+  Truncated dimension =          596
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          596
+  Number of linearly independent states          279
+ OK
+ 
+        1192         596
+  Loaded number of states          596         279
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         596         279        1192
+ **** OK 
+  X          596         279
+  idphontot =        1192
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =            0
+  Total dimension         1788
+  Truncated dimension          894
+  Dimension =         1788
+  Truncated dimension =          894
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          894
+  Number of linearly independent states          428
+ OK
+ 
+        1788         894
+  Loaded number of states          894         428
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         894         428        1788
+ **** OK 
+  X          894         428
+  idphontot =        1788
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =            0
+  Total dimension         1192
+  Truncated dimension          596
+  Dimension =         1192
+  Truncated dimension =          596
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          596
+  Number of linearly independent states          279
+ OK
+ 
+        1192         596
+  Loaded number of states          596         279
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         596         279        1192
+ **** OK 
+  X          596         279
+  idphontot =        1192
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =            1
+  Total dimension         3184
+  Truncated dimension         1592
+  Dimension =         3184
+  Truncated dimension =         1592
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         1592
+  Number of linearly independent states          758
+ OK
+ 
+        3184        1592
+  Loaded number of states         1592         758
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        1592         758        3184
+ **** OK 
+  X         1592         758
+  idphontot =        3184
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =            1
+  Total dimension         4776
+  Truncated dimension         2388
+  Dimension =         4776
+  Truncated dimension =         2388
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2388
+  Number of linearly independent states         1156
+ OK
+ 
+        4776        2388
+  Loaded number of states         2388        1156
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2388        1156        4776
+ **** OK 
+  X         2388        1156
+  idphontot =        4776
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =            1
+  Total dimension         3184
+  Truncated dimension         1592
+  Dimension =         3184
+  Truncated dimension =         1592
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         1592
+  Number of linearly independent states          758
+ OK
+ 
+        3184        1592
+  Loaded number of states         1592         758
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        1592         758        3184
+ **** OK 
+  X         1592         758
+  idphontot =        3184
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =            2
+  Total dimension         4160
+  Truncated dimension         2080
+  Dimension =         4160
+  Truncated dimension =         2080
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2080
+  Number of linearly independent states          982
+ OK
+ 
+        4160        2080
+  Loaded number of states         2080         982
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2080         982        4160
+ **** OK 
+  X         2080         982
+  idphontot =        4160
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =            2
+  Total dimension         6240
+  Truncated dimension         3120
+  Dimension =         6240
+  Truncated dimension =         3120
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         3120
+  Number of linearly independent states         1502
+ OK
+ 
+        6240        3120
+  Loaded number of states         3120        1502
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        3120        1502        6240
+ **** OK 
+  X         3120        1502
+  idphontot =        6240
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =            2
+  Total dimension         4160
+  Truncated dimension         2080
+  Dimension =         4160
+  Truncated dimension =         2080
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2080
+  Number of linearly independent states          982
+ OK
+ 
+        4160        2080
+  Loaded number of states         2080         982
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2080         982        4160
+ **** OK 
+  X         2080         982
+  idphontot =        4160
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =            3
+  Total dimension         4016
+  Truncated dimension         2008
+  Dimension =         4016
+  Truncated dimension =         2008
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2008
+  Number of linearly independent states          946
+ OK
+ 
+        4016        2008
+  Loaded number of states         2008         946
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2008         946        4016
+ **** OK 
+  X         2008         946
+  idphontot =        4016
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =            3
+  Total dimension         6024
+  Truncated dimension         3012
+  Dimension =         6024
+  Truncated dimension =         3012
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         3012
+  Number of linearly independent states         1448
+ OK
+ 
+        6024        3012
+  Loaded number of states         3012        1448
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        3012        1448        6024
+ **** OK 
+  X         3012        1448
+  idphontot =        6024
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =            3
+  Total dimension         4016
+  Truncated dimension         2008
+  Dimension =         4016
+  Truncated dimension =         2008
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2008
+  Number of linearly independent states          946
+ OK
+ 
+        4016        2008
+  Loaded number of states         2008         946
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2008         946        4016
+ **** OK 
+  X         2008         946
+  idphontot =        4016
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =            4
+  Total dimension         3104
+  Truncated dimension         1552
+  Dimension =         3104
+  Truncated dimension =         1552
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         1552
+  Number of linearly independent states          726
+ OK
+ 
+        3104        1552
+  Loaded number of states         1552         726
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        1552         726        3104
+ **** OK 
+  X         1552         726
+  idphontot =        3104
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =            4
+  Total dimension         4656
+  Truncated dimension         2328
+  Dimension =         4656
+  Truncated dimension =         2328
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2328
+  Number of linearly independent states         1114
+ OK
+ 
+        4656        2328
+  Loaded number of states         2328        1114
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2328        1114        4656
+ **** OK 
+  X         2328        1114
+  idphontot =        4656
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =            4
+  Total dimension         3104
+  Truncated dimension         1552
+  Dimension =         3104
+  Truncated dimension =         1552
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         1552
+  Number of linearly independent states          726
+ OK
+ 
+        3104        1552
+  Loaded number of states         1552         726
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        1552         726        3104
+ **** OK 
+  X         1552         726
+  idphontot =        3104
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =            5
+  Total dimension         1952
+  Truncated dimension          976
+  Dimension =         1952
+  Truncated dimension =          976
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          976
+  Number of linearly independent states          448
+ OK
+ 
+        1952         976
+  Loaded number of states          976         448
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         976         448        1952
+ **** OK 
+  X          976         448
+  idphontot =        1952
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =            5
+  Total dimension         2928
+  Truncated dimension         1464
+  Dimension =         2928
+  Truncated dimension =         1464
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         1464
+  Number of linearly independent states          692
+ OK
+ 
+        2928        1464
+  Loaded number of states         1464         692
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        1464         692        2928
+ **** OK 
+  X         1464         692
+  idphontot =        2928
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =            5
+  Total dimension         1952
+  Truncated dimension          976
+  Dimension =         1952
+  Truncated dimension =          976
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          976
+  Number of linearly independent states          448
+ OK
+ 
+        1952         976
+  Loaded number of states          976         448
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         976         448        1952
+ **** OK 
+  X          976         448
+  idphontot =        1952
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =            6
+  Total dimension         1000
+  Truncated dimension          500
+  Dimension =         1000
+  Truncated dimension =          500
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          500
+  Number of linearly independent states          227
+ OK
+ 
+        1000         500
+  Loaded number of states          500         227
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         500         227        1000
+ **** OK 
+  X          500         227
+  idphontot =        1000
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =            6
+  Total dimension         1500
+  Truncated dimension          750
+  Dimension =         1500
+  Truncated dimension =          750
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          750
+  Number of linearly independent states          352
+ OK
+ 
+        1500         750
+  Loaded number of states          750         352
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         750         352        1500
+ **** OK 
+  X          750         352
+  idphontot =        1500
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =            6
+  Total dimension         1000
+  Truncated dimension          500
+  Dimension =         1000
+  Truncated dimension =          500
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          500
+  Number of linearly independent states          227
+ OK
+ 
+        1000         500
+  Loaded number of states          500         227
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         500         227        1000
+ **** OK 
+  X          500         227
+  idphontot =        1000
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =            7
+  Total dimension          400
+  Truncated dimension          200
+  Dimension =          400
+  Truncated dimension =          200
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          200
+  Number of linearly independent states           84
+ OK
+ 
+         400         200
+  Loaded number of states          200          84
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         200          84         400
+ **** OK 
+  X          200          84
+  idphontot =         400
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =            7
+  Total dimension          600
+  Truncated dimension          300
+  Dimension =          600
+  Truncated dimension =          300
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          300
+  Number of linearly independent states          134
+ OK
+ 
+         600         300
+  Loaded number of states          300         134
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         300         134         600
+ **** OK 
+  X          300         134
+  idphontot =         600
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =            7
+  Total dimension          400
+  Truncated dimension          200
+  Dimension =          400
+  Truncated dimension =          200
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          200
+  Number of linearly independent states           84
+ OK
+ 
+         400         200
+  Loaded number of states          200          84
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         200          84         400
+ **** OK 
+  X          200          84
+  idphontot =         400
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =            8
+  Total dimension          120
+  Truncated dimension           60
+  Dimension =          120
+  Truncated dimension =           60
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           60
+  Number of linearly independent states           25
+ OK
+ 
+         120          60
+  Loaded number of states           60          25
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          60          25         120
+ **** OK 
+  X           60          25
+  idphontot =         120
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =            8
+  Total dimension          180
+  Truncated dimension           90
+  Dimension =          180
+  Truncated dimension =           90
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           90
+  Number of linearly independent states           40
+ OK
+ 
+         180          90
+  Loaded number of states           90          40
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          90          40         180
+ **** OK 
+  X           90          40
+  idphontot =         180
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =            8
+  Total dimension          120
+  Truncated dimension           60
+  Dimension =          120
+  Truncated dimension =           60
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           60
+  Number of linearly independent states           25
+ OK
+ 
+         120          60
+  Loaded number of states           60          25
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          60          25         120
+ **** OK 
+  X           60          25
+  idphontot =         120
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =            9
+  Total dimension           24
+  Truncated dimension           12
+  Dimension =           24
+  Truncated dimension =           12
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           12
+  Number of linearly independent states            3
+ OK
+ 
+          24          12
+  Loaded number of states           12           3
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          12           3          24
+ **** OK 
+  X           12           3
+  idphontot =          24
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =            9
+  Total dimension           36
+  Truncated dimension           18
+  Dimension =           36
+  Truncated dimension =           18
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           18
+  Number of linearly independent states            6
+ OK
+ 
+          36          18
+  Loaded number of states           18           6
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          18           6          36
+ **** OK 
+  X           18           6
+  idphontot =          36
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =            9
+  Total dimension           24
+  Truncated dimension           12
+  Dimension =           24
+  Truncated dimension =           12
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           12
+  Number of linearly independent states            3
+ OK
+ 
+          24          12
+  Loaded number of states           12           3
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          12           3          24
+ **** OK 
+  X           12           3
+  idphontot =          24
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =           -1    J =           10
+  Total dimension            0
+  Truncated dimension            0
+  Dimension =            0
+  Truncated dimension =            0
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =           -1    J =           10
+  Total dimension            0
+  Truncated dimension            0
+  Dimension =            0
+  Truncated dimension =            0
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =           -1    J =           10
+  Total dimension            0
+  Truncated dimension            0
+  Dimension =            0
+  Truncated dimension =            0
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =            0
+  Total dimension         1224
+  Truncated dimension          612
+  Dimension =         1224
+  Truncated dimension =          612
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          612
+  Number of linearly independent states          293
+ OK
+ 
+        1224         612
+  Loaded number of states          612         293
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         612         293        1224
+ **** OK 
+  X          612         293
+  idphontot =        1224
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =            0
+  Total dimension         1836
+  Truncated dimension          970
+  Dimension =         1836
+  Truncated dimension =          970
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          970
+  Number of linearly independent states          472
+ OK
+ 
+        1836         970
+  Loaded number of states          970         472
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         970         472        1836
+ **** OK 
+  X          970         472
+  idphontot =        1836
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =            0
+  Total dimension         1224
+  Truncated dimension          612
+  Dimension =         1224
+  Truncated dimension =          612
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          612
+  Number of linearly independent states          293
+ OK
+ 
+        1224         612
+  Loaded number of states          612         293
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         612         293        1224
+ **** OK 
+  X          612         293
+  idphontot =        1224
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =            1
+  Total dimension         3240
+  Truncated dimension         1620
+  Dimension =         3240
+  Truncated dimension =         1620
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         1620
+  Number of linearly independent states          760
+ OK
+ 
+        3240        1620
+  Loaded number of states         1620         760
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        1620         760        3240
+ **** OK 
+  X         1620         760
+  idphontot =        3240
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =            1
+  Total dimension         4860
+  Truncated dimension         2476
+  Dimension =         4860
+  Truncated dimension =         2476
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2476
+  Number of linearly independent states         1142
+ OK
+ 
+        4860        2476
+  Loaded number of states         2476        1142
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2476        1142        4860
+ **** OK 
+  X         2476        1142
+  idphontot =        4860
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =            1
+  Total dimension         3240
+  Truncated dimension         1620
+  Dimension =         3240
+  Truncated dimension =         1620
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         1620
+  Number of linearly independent states          760
+ OK
+ 
+        3240        1620
+  Loaded number of states         1620         760
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        1620         760        3240
+ **** OK 
+  X         1620         760
+  idphontot =        3240
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =            2
+  Total dimension         4232
+  Truncated dimension         2116
+  Dimension =         4232
+  Truncated dimension =         2116
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2116
+  Number of linearly independent states          996
+ OK
+ 
+        4232        2116
+  Loaded number of states         2116         996
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2116         996        4232
+ **** OK 
+  X         2116         996
+  idphontot =        4232
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =            2
+  Total dimension         6348
+  Truncated dimension         3220
+  Dimension =         6348
+  Truncated dimension =         3220
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         3220
+  Number of linearly independent states         1548
+ OK
+ 
+        6348        3220
+  Loaded number of states         3220        1548
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        3220        1548        6348
+ **** OK 
+  X         3220        1548
+  idphontot =        6348
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =            2
+  Total dimension         4232
+  Truncated dimension         2116
+  Dimension =         4232
+  Truncated dimension =         2116
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2116
+  Number of linearly independent states          996
+ OK
+ 
+        4232        2116
+  Loaded number of states         2116         996
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2116         996        4232
+ **** OK 
+  X         2116         996
+  idphontot =        4232
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =            3
+  Total dimension         4080
+  Truncated dimension         2040
+  Dimension =         4080
+  Truncated dimension =         2040
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2040
+  Number of linearly independent states          954
+ OK
+ 
+        4080        2040
+  Loaded number of states         2040         954
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2040         954        4080
+ **** OK 
+  X         2040         954
+  idphontot =        4080
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =            3
+  Total dimension         6120
+  Truncated dimension         3092
+  Dimension =         6120
+  Truncated dimension =         3092
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         3092
+  Number of linearly independent states         1448
+ OK
+ 
+        6120        3092
+  Loaded number of states         3092        1448
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        3092        1448        6120
+ **** OK 
+  X         3092        1448
+  idphontot =        6120
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =            3
+  Total dimension         4080
+  Truncated dimension         2040
+  Dimension =         4080
+  Truncated dimension =         2040
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2040
+  Number of linearly independent states          954
+ OK
+ 
+        4080        2040
+  Loaded number of states         2040         954
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2040         954        4080
+ **** OK 
+  X         2040         954
+  idphontot =        4080
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =            4
+  Total dimension         3136
+  Truncated dimension         1568
+  Dimension =         3136
+  Truncated dimension =         1568
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         1568
+  Number of linearly independent states          726
+ OK
+ 
+        3136        1568
+  Loaded number of states         1568         726
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        1568         726        3136
+ **** OK 
+  X         1568         726
+  idphontot =        3136
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =            4
+  Total dimension         4704
+  Truncated dimension         2384
+  Dimension =         4704
+  Truncated dimension =         2384
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         2384
+  Number of linearly independent states         1134
+ OK
+ 
+        4704        2384
+  Loaded number of states         2384        1134
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        2384        1134        4704
+ **** OK 
+  X         2384        1134
+  idphontot =        4704
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =            4
+  Total dimension         3136
+  Truncated dimension         1568
+  Dimension =         3136
+  Truncated dimension =         1568
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         1568
+  Number of linearly independent states          726
+ OK
+ 
+        3136        1568
+  Loaded number of states         1568         726
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        1568         726        3136
+ **** OK 
+  X         1568         726
+  idphontot =        3136
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =            5
+  Total dimension         1964
+  Truncated dimension          982
+  Dimension =         1964
+  Truncated dimension =          982
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          982
+  Number of linearly independent states          450
+ OK
+ 
+        1964         982
+  Loaded number of states          982         450
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         982         450        1964
+ **** OK 
+  X          982         450
+  idphontot =        1964
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =            5
+  Total dimension         2946
+  Truncated dimension         1490
+  Dimension =         2946
+  Truncated dimension =         1490
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =         1490
+  Number of linearly independent states          687
+ OK
+ 
+        2946        1490
+  Loaded number of states         1490         687
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal        1490         687        2946
+ **** OK 
+  X         1490         687
+  idphontot =        2946
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =            5
+  Total dimension         1964
+  Truncated dimension          982
+  Dimension =         1964
+  Truncated dimension =          982
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          982
+  Number of linearly independent states          450
+ OK
+ 
+        1964         982
+  Loaded number of states          982         450
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         982         450        1964
+ **** OK 
+  X          982         450
+  idphontot =        1964
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =            6
+  Total dimension          988
+  Truncated dimension          494
+  Dimension =          988
+  Truncated dimension =          494
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          494
+  Number of linearly independent states          217
+ OK
+ 
+         988         494
+  Loaded number of states          494         217
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         494         217         988
+ **** OK 
+  X          494         217
+  idphontot =         988
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =            6
+  Total dimension         1482
+  Truncated dimension          758
+  Dimension =         1482
+  Truncated dimension =          758
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          758
+  Number of linearly independent states          349
+ OK
+ 
+        1482         758
+  Loaded number of states          758         349
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         758         349        1482
+ **** OK 
+  X          758         349
+  idphontot =        1482
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =            6
+  Total dimension          988
+  Truncated dimension          494
+  Dimension =          988
+  Truncated dimension =          494
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          494
+  Number of linearly independent states          217
+ OK
+ 
+         988         494
+  Loaded number of states          494         217
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         494         217         988
+ **** OK 
+  X          494         217
+  idphontot =         988
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =            7
+  Total dimension          392
+  Truncated dimension          196
+  Dimension =          392
+  Truncated dimension =          196
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          196
+  Number of linearly independent states           84
+ OK
+ 
+         392         196
+  Loaded number of states          196          84
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         196          84         392
+ **** OK 
+  X          196          84
+  idphontot =         392
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =            7
+  Total dimension          588
+  Truncated dimension          300
+  Dimension =          588
+  Truncated dimension =          300
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          300
+  Number of linearly independent states          130
+ OK
+ 
+         588         300
+  Loaded number of states          300         130
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         300         130         588
+ **** OK 
+  X          300         130
+  idphontot =         588
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =            7
+  Total dimension          392
+  Truncated dimension          196
+  Dimension =          392
+  Truncated dimension =          196
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =          196
+  Number of linearly independent states           84
+ OK
+ 
+         392         196
+  Loaded number of states          196          84
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal         196          84         392
+ **** OK 
+  X          196          84
+  idphontot =         392
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =            8
+  Total dimension          112
+  Truncated dimension           56
+  Dimension =          112
+  Truncated dimension =           56
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           56
+  Number of linearly independent states           19
+ OK
+ 
+         112          56
+  Loaded number of states           56          19
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          56          19         112
+ **** OK 
+  X           56          19
+  idphontot =         112
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =            8
+  Total dimension          168
+  Truncated dimension           90
+  Dimension =          168
+  Truncated dimension =           90
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           90
+  Number of linearly independent states           36
+ OK
+ 
+         168          90
+  Loaded number of states           90          36
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          90          36         168
+ **** OK 
+  X           90          36
+  idphontot =         168
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =            8
+  Total dimension          112
+  Truncated dimension           56
+  Dimension =          112
+  Truncated dimension =           56
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           56
+  Number of linearly independent states           19
+ OK
+ 
+         112          56
+  Loaded number of states           56          19
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          56          19         112
+ **** OK 
+  X           56          19
+  idphontot =         112
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =            9
+  Total dimension           20
+  Truncated dimension           10
+  Dimension =           20
+  Truncated dimension =           10
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           10
+  Number of linearly independent states            3
+ OK
+ 
+          20          10
+  Loaded number of states           10           3
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          10           3          20
+ **** OK 
+  X           10           3
+  idphontot =          20
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =            9
+  Total dimension           30
+  Truncated dimension           16
+  Dimension =           30
+  Truncated dimension =           16
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           16
+  Number of linearly independent states            5
+ OK
+ 
+          30          16
+  Loaded number of states           16           5
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          16           5          30
+ **** OK 
+  X           16           5
+  idphontot =          30
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =            9
+  Total dimension           20
+  Truncated dimension           10
+  Dimension =           20
+  Truncated dimension =           10
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =           10
+  Number of linearly independent states            3
+ OK
+ 
+          20          10
+  Loaded number of states           10           3
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal          10           3          20
+ **** OK 
+  X           10           3
+  idphontot =          20
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =           -1  Par =            1    J =           10
+  Total dimension            4
+  Truncated dimension            2
+  Dimension =            4
+  Truncated dimension =            2
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =            2
+  Number of linearly independent states            0
+ OK
+ 
+           4           2
+  Loaded number of states            2           0
+
+Intel MKL ERROR: Parameter 4 was incorrect on entry to DPOTRF.
+  Factorization info           -4
+
+Intel MKL ERROR: Parameter 4 was incorrect on entry to DPOTRI.
+  Inverse info           -4
+ calculating D^-1 AD
+
+Intel MKL ERROR: Parameter 8 was incorrect on entry to DGEMM .
+  Diagonalisation 
+  X  ndim, no, ndimtotal           2           0           4
+
+Intel MKL ERROR: Parameter 8 was incorrect on entry to DGEMM .
+ **** OK 
+  X            2           0
+  idphontot =           4
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            0  Par =            1    J =           10
+  Total dimension            6
+  Truncated dimension            4
+  Dimension =            6
+  Truncated dimension =            4
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =            4
+  Number of linearly independent states            1
+ OK
+ 
+           6           4
+  Loaded number of states            4           1
+  Factorization info            0
+  Inverse info            0
+ calculating D^-1 AD
+  Diagonalisation 
+  info=             0
+  X  ndim, no, ndimtotal           4           1           6
+ **** OK 
+  X            4           1
+  idphontot =           6
+ *************
+ ----------------------------------------------
+ 
+ ----------------------------------------------
+ Tz =            1  Par =            1    J =           10
+  Total dimension            4
+  Truncated dimension            2
+  Dimension =            4
+  Truncated dimension =            2
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Cholesky analysis of D matrix 
+ norder =            2
+  Number of linearly independent states            0
+ OK
+ 
+           4           2
+  Loaded number of states            2           0
+
+Intel MKL ERROR: Parameter 4 was incorrect on entry to DPOTRF.
+  Factorization info           -4
+
+Intel MKL ERROR: Parameter 4 was incorrect on entry to DPOTRI.
+  Inverse info           -4
+ calculating D^-1 AD
+
+Intel MKL ERROR: Parameter 8 was incorrect on entry to DGEMM .
+  Diagonalisation 
+  X  ndim, no, ndimtotal           2           0           4
+
+Intel MKL ERROR: Parameter 8 was incorrect on entry to DGEMM .
+ **** OK 
+  X            2           0
+  idphontot =           4
+ *************
+ ----------------------------------------------
+  Number of 2 phonon states        31784

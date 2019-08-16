@@ -1,0 +1,2 @@
+
+ifort choles.f anglib.f90 base.f  ham.f input_sp.f90 admat.f90  dmat_test.f  eqm.f -L$MKLPATH -I$MKLINCLUDE -Wl,--start-group $MKLPATH/libmkl_intel_lp64.a $MKLPATH/libmkl_intel_thread.a $MKLPATH/libmkl_core.a -Wl,--end-group -static -liomp5 -lpthread -o eqmf_st

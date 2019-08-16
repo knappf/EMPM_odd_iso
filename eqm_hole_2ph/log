@@ -1,0 +1,308 @@
+  Number of levels loaded           20
+  Maximal value 2J           7
+  Parity?
+  2*J?
+  Tz =?   -1 for neutron hole,  1 for proton hole
+          -1
+  Number of phonons =        31784
+  Single-particle levels           1           6
+ Dimension of space =        9734
+ Dimension of Tz=           -1    =        1309
+ Number of independent spates =        1309
+  Cholesky analysis of D matrix 
+ norder =         1309
+  Number of linearly independent states         1083
+   35  762   0.01003  -0.00043   0.00185
+  377  779   0.01064   0.00034  -0.00049
+  390  779   0.01067  -0.00056  -0.00049
+  401  779   0.01064  -0.00002  -0.00049
+  432  928   0.01070   0.00365  -0.00061
+  434  928   0.01168  -0.00791  -0.00061
+  463  688   0.01123   0.00124   0.00172
+  471 1298   0.01028   0.00044   0.04456
+  493  571   0.01088   0.00261  -0.00010
+  499  746   0.01020  -0.00432  -0.00105
+  528  571   0.01063  -0.00000  -0.00010
+  553  571   0.01133   0.00063  -0.00010
+  555  571   0.01232   0.00176  -0.00010
+  567 1298   0.01139  -0.00083   0.04456
+  569  805   0.01064   0.00081   0.00074
+  569  886   0.01168   0.00081  -0.00039
+  569  918   0.01071   0.00081  -0.00016
+  571  797   0.01306  -0.00010   0.00060
+  571  822   0.01082  -0.00010  -0.00364
+  571  866   0.01730  -0.00010  -0.00008
+  571  869   0.01031  -0.00010  -0.00078
+  571  875   0.01041  -0.00010   0.00018
+  571  890   0.01143  -0.00010  -0.00036
+  571  893   0.01309  -0.00010   0.00003
+  571  896   0.01620  -0.00010   0.00166
+  571  912   0.01143  -0.00010   0.00043
+  571  915   0.01253  -0.00010  -0.00084
+  603 1083   0.01038   0.00153   0.00001
+  665 1300   0.01094   0.00069   0.00493
+  748 1300   0.01091   0.00032   0.00493
+  779 1298   0.01377  -0.00049   0.04456
+  779 1300   0.01251  -0.00049   0.00493
+  791 1300   0.01043   0.00215   0.00493
+  792 1300   0.01203  -0.00049   0.00493
+  803 1298   0.01108   0.00299   0.04456
+  803 1300   0.01023   0.00299   0.00493
+  808 1300   0.01133  -0.00070   0.00493
+  810 1300   0.01160  -0.00001   0.00493
+  896 1288   0.01016   0.00166  -0.00051
+  903 1298   0.01007  -0.00395   0.04456
+  903 1300   0.01290  -0.00395   0.00493
+  927 1300   0.01045  -0.00180   0.00493
+  929 1298   0.01858  -0.00032   0.04456
+  929 1300   0.01305  -0.00032   0.00493
+  Factorization info         1083
+  Inverse info            0
+  Diagonalisation 
+  info=             0
+  Imaginary part          15  0.284277859666976     
+  Imaginary part          16 -0.284277859666976     
+  Imaginary part          24  0.223728620713085     
+  Imaginary part          25 -0.223728620713085     
+  Imaginary part          68  3.646339836968817E-002
+  Imaginary part          69 -3.646339836968817E-002
+  Imaginary part          72  5.610881303127618E-002
+  Imaginary part          73 -5.610881303127618E-002
+  Imaginary part          75  1.353756937871646E-002
+  Imaginary part          76 -1.353756937871646E-002
+  Imaginary part         109  5.855539200425050E-004
+  Imaginary part         110 -5.855539200425050E-004
+  Imaginary part         113  0.106079217259076     
+  Imaginary part         114 -0.106079217259076     
+  Imaginary part         115  1.321654489665593E-002
+  Imaginary part         116 -1.321654489665593E-002
+  Imaginary part         118  2.999483040985089E-002
+  Imaginary part         119 -2.999483040985089E-002
+  Imaginary part         122  2.703940210762267E-002
+  Imaginary part         123 -2.703940210762267E-002
+  Imaginary part         140  2.863283399121499E-003
+  Imaginary part         141 -2.863283399121499E-003
+  Imaginary part         176  1.238341104163985E-002
+  Imaginary part         177 -1.238341104163985E-002
+  Imaginary part         178  0.119601878640769     
+  Imaginary part         179 -0.119601878640769     
+  Imaginary part         181  5.296083946116164E-003
+  Imaginary part         182 -5.296083946116164E-003
+  Imaginary part         188  7.468731758546013E-003
+  Imaginary part         189 -7.468731758546013E-003
+  Imaginary part         196  1.114376462675951E-002
+  Imaginary part         197 -1.114376462675951E-002
+  Imaginary part         209  4.661608748538398E-003
+  Imaginary part         210 -4.661608748538398E-003
+  Imaginary part         219  2.725371161814947E-002
+  Imaginary part         220 -2.725371161814947E-002
+  Imaginary part         221  1.546453255519166E-002
+  Imaginary part         222 -1.546453255519166E-002
+  Imaginary part         237  7.133728354961497E-003
+  Imaginary part         238 -7.133728354961497E-003
+  Imaginary part         239  1.781794542293254E-002
+  Imaginary part         240 -1.781794542293254E-002
+  Imaginary part         241  4.465281550164534E-003
+  Imaginary part         242 -4.465281550164534E-003
+  Imaginary part         245  1.111703838773619E-002
+  Imaginary part         246 -1.111703838773619E-002
+  Imaginary part         252  1.072582617556024E-002
+  Imaginary part         253 -1.072582617556024E-002
+  Imaginary part         255  1.163179352703626E-002
+  Imaginary part         256 -1.163179352703626E-002
+  Imaginary part         257  3.184676463072062E-002
+  Imaginary part         258 -3.184676463072062E-002
+  Imaginary part         259  3.480966051287089E-002
+  Imaginary part         260 -3.480966051287089E-002
+  Imaginary part         265  1.259605796859050E-002
+  Imaginary part         266 -1.259605796859050E-002
+  Imaginary part         276  5.399115745127900E-003
+  Imaginary part         277 -5.399115745127900E-003
+  Imaginary part         280  2.544876416474442E-002
+  Imaginary part         281 -2.544876416474442E-002
+  Imaginary part         293  1.492322236167260E-002
+  Imaginary part         294 -1.492322236167260E-002
+  Imaginary part         310  7.319590482812923E-003
+  Imaginary part         311 -7.319590482812923E-003
+  Imaginary part         312  8.581291665805707E-003
+  Imaginary part         313 -8.581291665805707E-003
+  Imaginary part         316  1.811270869987612E-002
+  Imaginary part         317 -1.811270869987612E-002
+  Imaginary part         332  8.537491024527078E-003
+  Imaginary part         333 -8.537491024527078E-003
+  Imaginary part         338  4.224948530214706E-002
+  Imaginary part         339 -4.224948530214706E-002
+  Imaginary part         342  2.191183373333922E-002
+  Imaginary part         343 -2.191183373333922E-002
+  Imaginary part         346  1.142538737438742E-003
+  Imaginary part         347 -1.142538737438742E-003
+  Imaginary part         348  1.168779149055849E-002
+  Imaginary part         349 -1.168779149055849E-002
+  Imaginary part         365  1.357077842720938E-002
+  Imaginary part         366 -1.357077842720938E-002
+  Imaginary part         367  1.742007254387053E-002
+  Imaginary part         368 -1.742007254387053E-002
+  Imaginary part         371  0.127438278955397     
+  Imaginary part         372 -0.127438278955397     
+  Imaginary part         394  5.891262310667092E-003
+  Imaginary part         395 -5.891262310667092E-003
+  Imaginary part         401  1.797255169053673E-002
+  Imaginary part         402 -1.797255169053673E-002
+  Imaginary part         411  7.245110222467671E-002
+  Imaginary part         412 -7.245110222467671E-002
+  Imaginary part         414  1.881142131445713E-002
+  Imaginary part         415 -1.881142131445713E-002
+  Imaginary part         416  1.491358852538394E-002
+  Imaginary part         417 -1.491358852538394E-002
+  Imaginary part         434  5.522738413415577E-002
+  Imaginary part         435 -5.522738413415577E-002
+  Imaginary part         439  3.474940156305310E-002
+  Imaginary part         440 -3.474940156305310E-002
+  Imaginary part         441  2.268134193919517E-002
+  Imaginary part         442 -2.268134193919517E-002
+  Imaginary part         445  3.127949231896569E-002
+  Imaginary part         446 -3.127949231896569E-002
+  Imaginary part         447  8.118720200107713E-003
+  Imaginary part         448 -8.118720200107713E-003
+  Imaginary part         459  3.679379927431564E-002
+  Imaginary part         460 -3.679379927431564E-002
+  Imaginary part         470  4.053876629886832E-002
+  Imaginary part         471 -4.053876629886832E-002
+  Imaginary part         475  2.740318809667833E-002
+  Imaginary part         476 -2.740318809667833E-002
+  Imaginary part         478  6.974281395721942E-002
+  Imaginary part         479 -6.974281395721942E-002
+  Imaginary part         480  0.112858415984354     
+  Imaginary part         481 -0.112858415984354     
+  Imaginary part         482  9.006915377317871E-002
+  Imaginary part         483 -9.006915377317871E-002
+  Imaginary part         486  2.046959133291382E-002
+  Imaginary part         487 -2.046959133291382E-002
+  Imaginary part         489  3.018904995188595E-002
+  Imaginary part         490 -3.018904995188595E-002
+  Imaginary part         492  4.117975007469241E-002
+  Imaginary part         493 -4.117975007469241E-002
+  Imaginary part         501  6.001903335179833E-002
+  Imaginary part         502 -6.001903335179833E-002
+  Imaginary part         520  6.409453545091494E-002
+  Imaginary part         521 -6.409453545091494E-002
+  Imaginary part         524  5.925178568419063E-002
+  Imaginary part         525 -5.925178568419063E-002
+  Imaginary part         545  1.044519214421345E-002
+  Imaginary part         546 -1.044519214421345E-002
+  Imaginary part         550  0.133128495314920     
+  Imaginary part         551 -0.133128495314920     
+  Imaginary part         553  3.814541789448312E-002
+  Imaginary part         554 -3.814541789448312E-002
+  Imaginary part         555  0.116792702706978     
+  Imaginary part         556 -0.116792702706978     
+  Imaginary part         557  0.102496942039911     
+  Imaginary part         558 -0.102496942039911     
+  Imaginary part         569  7.440506180093914E-002
+  Imaginary part         570 -7.440506180093914E-002
+  Imaginary part         584  5.435612768495388E-002
+  Imaginary part         585 -5.435612768495388E-002
+  Imaginary part         586  7.967828255882464E-002
+  Imaginary part         587 -7.967828255882464E-002
+  Imaginary part         589  4.700980028824051E-003
+  Imaginary part         590 -4.700980028824051E-003
+  Imaginary part         592  7.801726386930873E-002
+  Imaginary part         593 -7.801726386930873E-002
+  Imaginary part         605  4.603596832298105E-003
+  Imaginary part         606 -4.603596832298105E-003
+  Imaginary part         616  1.641837725601789E-002
+  Imaginary part         617 -1.641837725601789E-002
+  Imaginary part         630  3.154942107296299E-002
+  Imaginary part         631 -3.154942107296299E-002
+  Imaginary part         633  9.839580146690743E-003
+  Imaginary part         634 -9.839580146690743E-003
+  Imaginary part         635  2.065363048016321E-002
+  Imaginary part         636 -2.065363048016321E-002
+  Imaginary part         637  6.791938060440207E-002
+  Imaginary part         638 -6.791938060440207E-002
+  Imaginary part         641  2.653407361629982E-002
+  Imaginary part         642 -2.653407361629982E-002
+  Imaginary part         643  5.115947503169443E-002
+  Imaginary part         644 -5.115947503169443E-002
+  Imaginary part         648  2.572598106578683E-002
+  Imaginary part         649 -2.572598106578683E-002
+  Imaginary part         656  2.784808626540448E-002
+  Imaginary part         657 -2.784808626540448E-002
+  Imaginary part         666  2.287716183251501E-003
+  Imaginary part         667 -2.287716183251501E-003
+  Imaginary part         670  1.008364014004038E-002
+  Imaginary part         671 -1.008364014004038E-002
+  Imaginary part         684  1.943981654432786E-002
+  Imaginary part         685 -1.943981654432786E-002
+  Imaginary part         687  4.072591475433666E-002
+  Imaginary part         688 -4.072591475433666E-002
+  Imaginary part         701  3.770226744726407E-002
+  Imaginary part         702 -3.770226744726407E-002
+  Imaginary part         704  8.461858398830736E-002
+  Imaginary part         705 -8.461858398830736E-002
+  Imaginary part         707  2.455067837615810E-003
+  Imaginary part         708 -2.455067837615810E-003
+  Imaginary part         730  2.765902171533524E-003
+  Imaginary part         731 -2.765902171533524E-003
+  Imaginary part         733  1.469313828694522E-002
+  Imaginary part         734 -1.469313828694522E-002
+  Imaginary part         736  1.919120981918296E-002
+  Imaginary part         737 -1.919120981918296E-002
+  Imaginary part         742  1.509272400917751E-002
+  Imaginary part         743 -1.509272400917751E-002
+  Imaginary part         744  1.610005838620204E-002
+  Imaginary part         745 -1.610005838620204E-002
+  Imaginary part         747  2.104497278246429E-002
+  Imaginary part         748 -2.104497278246429E-002
+  Imaginary part         751  6.759807576481319E-003
+  Imaginary part         752 -6.759807576481319E-003
+  Imaginary part         753  2.073573980383482E-002
+  Imaginary part         754 -2.073573980383482E-002
+  Imaginary part         756  4.380893250560612E-003
+  Imaginary part         757 -4.380893250560612E-003
+  Imaginary part         758  1.412341086877229E-003
+  Imaginary part         759 -1.412341086877229E-003
+  Imaginary part         780  2.458523442446835E-002
+  Imaginary part         781 -2.458523442446835E-002
+  Imaginary part         783  1.776618003118575E-002
+  Imaginary part         784 -1.776618003118575E-002
+  Imaginary part         804  8.173311935236611E-003
+  Imaginary part         805 -8.173311935236611E-003
+  Imaginary part         807  2.823332912898366E-003
+  Imaginary part         808 -2.823332912898366E-003
+  Imaginary part         828  2.465018292236202E-002
+  Imaginary part         829 -2.465018292236202E-002
+  Imaginary part         843  2.957812500213833E-002
+  Imaginary part         844 -2.957812500213833E-002
+  Imaginary part         845  6.089121807228801E-003
+  Imaginary part         846 -6.089121807228801E-003
+  Imaginary part         848  2.646483048688137E-003
+  Imaginary part         849 -2.646483048688137E-003
+  Imaginary part         851  2.532438255075948E-002
+  Imaginary part         852 -2.532438255075948E-002
+  Imaginary part         857  2.174143266507075E-002
+  Imaginary part         858 -2.174143266507075E-002
+  Imaginary part         915  7.578288134286040E-003
+  Imaginary part         916 -7.578288134286040E-003
+  Imaginary part         919  3.402033826510444E-003
+  Imaginary part         920 -3.402033826510444E-003
+  Imaginary part         934  7.189809475568473E-003
+  Imaginary part         935 -7.189809475568473E-003
+  Imaginary part         978  1.227945470006229E-002
+  Imaginary part         979 -1.227945470006229E-002
+  Imaginary part        1015  4.233597609581054E-003
+  Imaginary part        1016 -4.233597609581054E-003
+  Imaginary part        1019  4.824964048196979E-003
+  Imaginary part        1020 -4.824964048196979E-003
+  Imaginary part        1023  3.973314057000053E-003
+  Imaginary part        1024 -3.973314057000053E-003
+  Imaginary part        1050  7.743971355259224E-003
+  Imaginary part        1051 -7.743971355259224E-003
+  Imaginary part        1056  4.702227523514919E-003
+  Imaginary part        1057 -4.702227523514919E-003
+  Imaginary part        1058  9.371448683485857E-003
+  Imaginary part        1059 -9.371448683485857E-003
+  Imaginary part        1079  6.323593802763457E-004
+  Imaginary part        1080 -6.323593802763457E-004
+  check dim_ind =        1083
+ X calculation

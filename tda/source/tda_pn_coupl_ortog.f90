@@ -1,8 +1,9 @@
 !*     Program tda_pn_coup.f computes TDA phonons in  J-coupled proton-neutron 
 !*     formalism.
 !*
-!*     last update 16.8.2019 
+!*     last update 20.8.2019 
 !*    
+! dnes je pekny den
 
       program tda_pn_coup
       
@@ -100,6 +101,8 @@
       call read_fmat(f_int,nlev,jmax)
 
       nlam=0
+
+
 
 
       do ipar=-1,1,2   ! cycle over parity
